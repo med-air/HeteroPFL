@@ -1,0 +1,9 @@
+.idea
+.vscode
+.DS_Store
+*/.DS_Store
+checkpoint
+logs
+snapshots
+*/__pycache__
+*/__pycache__/*
