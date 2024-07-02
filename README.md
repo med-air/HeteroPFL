@@ -27,7 +27,7 @@ bash run.sh
 ```
 
 ## Citation
-If you find the code useful, please cite our paper.
+If you find this code useful, please cite our paper.
 ```latex
 @inproceedings{
 jiang2024heterogeneous,
