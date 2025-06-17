@@ -16,7 +16,7 @@ Actually, our code has no specific requirements on any specific packages, for co
 ### Dataset
 For the datasets, we mainly follow the datasets from [FedBN](https://github.com/med-air/FedBN).
 
-For the benchmark data of digits classification, please download the datasets [here](https://drive.google.com/file/d/1moBE_ASD5vIOaU8ZHm_Nsj0KAfX5T0Sf/view?usp=sharing), and specify the correponding path in the `dataset.py`.
+For the benchmark data of digits classification, please download the datasets [here](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155149226_link_cuhk_edu_hk/EfEfSJY1i6VJvn1ZHjshFMABCiFViqhvqpz-xwSoZzAi2Q?e=khubNr), and specify the correponding path in the `dataset.py`.
 
 
 ### Run
